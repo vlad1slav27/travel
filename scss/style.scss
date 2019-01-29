@@ -188,6 +188,7 @@ body {
 }
 
 .place{
+
 	position: relative;
 	&__link{
 			margin: 30px 30px 60px 0;
@@ -224,6 +225,7 @@ body {
 	}
 	&__country{
 		position: relative;
+		overflow: hidden;
 		&-img{
 			height: 100%;
 			width: 400px;
